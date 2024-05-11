@@ -26,4 +26,4 @@ npm install
 npm run dev
 ```
 
-![RUNOOB 示例图片](./dupont.jpg)
+![image 示例图片](https://github.com/zylz10/DuPont/blob/main/src/assets/dupont.jpg)
